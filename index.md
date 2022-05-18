@@ -79,7 +79,7 @@
 			<div class="field ">
 				<h4 class="title">✈ 記住本地址和下面的邮箱</h4>
 				<ul>
-					<li><a oomiui7@gmail.com</a></li>
+					<li> oomiui7@gmail.com</li>
 				</ul>
 			</div>
 			<div class="field desc">

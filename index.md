@@ -79,9 +79,9 @@
 			
 			
 			<div class="field ">
-				<h4 class="title">谷歌浏览器下载地址</h4>
+				<h4 class="title">✈ 谷歌浏览器下载地址</h4>
 				<ul>
-				<p class="c_blue c_link"><a href="https://img.rumao2.xyz/google%20chrome%2091.0.4472.120%20.apk" target="_blank">点此下载</a></p>
+				<li><a href="https://img.rumao2.xyz/google%20chrome%2091.0.4472.120%20.apk" target="_blank">点此下载</a></li>
 				</ul>
 			
 			</div>

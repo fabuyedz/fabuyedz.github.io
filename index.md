@@ -70,12 +70,22 @@
 			<div class="field ">
 				<h4 class="title">✉ 请保存下面的邮箱和本发布页</h4>
 				<ul>
-					<li><a>oomiui7@gmail.com</a></li>
+					<li>  oomiui7@gmail.com  </li>
 				</ul>
 				<ul>
 					<li><a>希望大家能学会发送邮件获取新地址</a></li>
 				</ul>
 			</div>
+			
+			
+			<div class="field ">
+				<h4 class="title">谷歌浏览器下载地址</h4>
+				<ul>
+				<p class="c_blue c_link"><a href="https://img.rumao2.xyz/google%20chrome%2091.0.4472.120%20.apk" target="_blank">点此下载</a></p>
+				</ul>
+			
+			</div>
+			
 			
 			<div class="field desc">
 				<h4 class="title">✐ 溫馨提示</h4>

@@ -68,7 +68,7 @@
 				<p class="c_blue c_link">最新地址➊：<a href="https://www.baidu.com" target="_blank">https://www.baidu.com</a></p>
 			</div>
 			<div class="field ">
-				<h4 class="title">✉ 联络邮件</h4>
+				<h4 class="title">✉ 请保存下面的邮箱和本发布页</h4>
 				<ul>
 					<li><a>oomiui7@gmail.com</a></li>
 				</ul>

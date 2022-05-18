@@ -3,7 +3,7 @@
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 		<meta content="width=device-width, initial-scale=1.0, user-scalable=0" name="viewport">
-		<title>草帽TV-Zero永久地址发布页，收藏我回家不迷路！</title>
+		<title>XXTV-Zero永久地址发布页，收藏我回家不迷路！</title>
 		<meta name="keywords" content="Zero永久地址发布页，收藏我回家不迷路！">
 		<meta name="description" content="Zero永久地址发布页，收藏我回家不迷路！">
 		<link rel="shortcut icon" href="/favicon.ico">
@@ -42,7 +42,7 @@
 	<body>
 		<div id="main">
 			<div class="brand" id="logo">
-				<span>草帽TV
+				<span>XXTV
 				</span><span class="flag">永久发布页</span>
 			</div>
 			<div class="field">
@@ -54,9 +54,9 @@
 						<script language="javascript">
 							function test() {
 								var url = new Array();
-								url[0] = "https://www.cmtv8.cf";
-								url[1] = "https://www.cmtv8.cf";
-								url[2] = "https://www.cmtv8.cf";
+								url[0] = "https://www.baidu.com";
+								url[1] = "https://www.baidu.com";
+								url[2] = "https://www.baidu.com";
 								var ints = parseInt(Math.random() * (url.length));
 								window.open(url[ints]); //本窗口打开     
 								//window.location=url[ints];//新窗口打开 
@@ -65,7 +65,7 @@
 						<a href="javascript:test()"><span class="c_blue">点击这里进入本网站</span> </a>
 					</div>
 				</div>
-				<p class="c_blue c_link">最新地址➊：<a href="www.cmtv8.cf" target="_blank">https://www.cmtv8.cf</a></p>
+				<p class="c_blue c_link">最新地址➊：<a href="www.cmtv8.cf" target="_blank">https://www.baidu.com</a></p>
 			</div>
 			<div class="field ">
 				<h4 class="title">✉ 联络邮件</h4>
@@ -79,7 +79,7 @@
 			<div class="field ">
 				<h4 class="title">✈ 記住永久地址</h4>
 				<ul>
-					<li><a href="https://www.cmtv8.com" target="_blank">www.cmtv8.com</a></li>
+					<li><a href="https://www.baidu.com" target="_blank">www.baidu.com</a></li>
 				</ul>
 			</div>
 			<div class="field desc">

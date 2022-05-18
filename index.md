@@ -24,7 +24,7 @@
 			a,a:active,a:focus,a:hover,a:visited{color:inherit;text-decoration:none}
 			.brand{display:flex;align-items:center;justify-content:flex-start;text-align:center;color:#000;font-size:30px;font-weight:200;padding:20px;cursor:pointer}
 			.brand span{color:#fff;font-weight:600}
-			.brand span.flag{color:#fc9872;background:#fff;border-radius:6px;font-size:20px;font-weight:700;display:inline-block;padding:0 5px;margin-left:5px}
+			.brand span.flag{color:#157d73;background:#fff;border-radius:6px;font-size:20px;font-weight:700;display:inline-block;padding:0 5px;margin-left:5px}
 			.enter-maomi{width:75%;text-align:center;line-height:40px;border:1px solid #fc9872;border-radius:4px;margin-bottom:20px;margin-top:10px}
 			.enter-icon{width:32px;height:41px;float:left;margin-right:5px;background-color:#fc9872}
 			.enter-link a{display:block}

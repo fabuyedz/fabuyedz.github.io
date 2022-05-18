@@ -77,9 +77,9 @@
 				</ul>
 			</div>
 			<div class="field ">
-				<h4 class="title">✈ 記住永久地址</h4>
+				<h4 class="title">✈ 記住本地址和下面的邮箱</h4>
 				<ul>
-					<li><a href="https://www.baidu.com" target="_blank">www.baidu.com</a></li>
+					<li><a oomiui7@gmail.com</a></li>
 				</ul>
 			</div>
 			<div class="field desc">

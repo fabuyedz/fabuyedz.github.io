@@ -65,7 +65,7 @@
 						<a href="javascript:test()"><span class="c_blue">点击这里进入本网站</span> </a>
 					</div>
 				</div>
-				<p class="c_blue c_link">最新地址➊：<a href="www.cmtv8.cf" target="_blank">https://www.baidu.com</a></p>
+				<p class="c_blue c_link">最新地址➊：<a href="https://www.baidu.com" target="_blank">https://www.baidu.com</a></p>
 			</div>
 			<div class="field ">
 				<h4 class="title">✉ 联络邮件</h4>

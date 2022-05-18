@@ -76,12 +76,7 @@
 					<li><a>希望大家能学会发送邮件获取新地址</a></li>
 				</ul>
 			</div>
-			<div class="field ">
-				<h4 class="title">✈ 記住本地址和下面的邮箱</h4>
-				<ul>
-					<li> oomiui7@gmail.com</li>
-				</ul>
-			</div>
+			
 			<div class="field desc">
 				<h4 class="title">✐ 溫馨提示</h4>
 				<ul>

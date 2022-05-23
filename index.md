@@ -1,103 +1,332 @@
 <html>
 	<head>
-		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-		<meta content="width=device-width, initial-scale=1.0, user-scalable=0" name="viewport">
-		<title>XXTV-Zero永久地址发布页，收藏我回家不迷路！</title>
-		<meta name="keywords" content="Zero永久地址发布页，收藏我回家不迷路！">
-		<meta name="description" content="Zero永久地址发布页，收藏我回家不迷路！">
-		<link rel="shortcut icon" href="/favicon.ico">
+	    <base target="_parent">
+		<meta charset="UTF-8">
+		<title>九度视频地址发布ye回家bu迷路</title>
 		<style type="text/css">
-			*{padding:0;margin:0}
-			body{background-color:#fc9872;color:#fff;font-family:-apple-system,BlinkMacSystemFont,Helvetica Neue,PingFang SC,Microsoft YaHei,Source Han Sans SC,Noto Sans CJK SC,WenQuanYi Micro Hei,sans-serif}
-			#main{margin:10px auto;display:flex;justify-content:center;flex-direction:column;align-items:center}
-			.field{width:500px;display:flex;flex-direction:column;align-items:center;justify-content:center;background:#fff;color:#6c757d;font-size:16px;padding:15px;margin:5px auto;border-radius:6px}
-			.field.desc ul>li{text-align:left;font-size:14px}
-			@media (max-width:500px){#main{padding:0 5px}
-			.field{width:100%;padding:15px 0}
-			.field.desc ul{margin:0 15px}
-			.field.desc ul>li{text-align:left}
+			
+			a:link { text-decoration: none;color: purple} 
+			a:active { text-decoration:blink} 
+			a:hover { text-decoration:underline;color: red} 
+			a:visited { text-decoration: none;color: purple} 
+		
+			#north{
+				height: 200px;
+				width: 100%;
 			}
-			ul>li{margin-bottom:10px;list-style-type:none;text-align:center}
-			ul>li.text{font-size:12px;clear:both;width:100%}
-			.field .title{margin-bottom:15px;font-weight:700;color:#343a40}
-			a,a:active,a:focus,a:hover,a:visited{color:inherit;text-decoration:none}
-			.brand{display:flex;align-items:center;justify-content:flex-start;text-align:center;color:#000;font-size:30px;font-weight:200;padding:20px;cursor:pointer}
-			.brand span{color:#fff;font-weight:600}
-			.brand span.flag{color:#157d73;background:#fff;border-radius:6px;font-size:20px;font-weight:700;display:inline-block;padding:0 5px;margin-left:5px}
-			.enter-maomi{width:75%;text-align:center;line-height:40px;border:1px solid #fc9872;border-radius:4px;margin-bottom:20px;margin-top:10px}
-			.enter-icon{width:32px;height:41px;float:left;margin-right:5px;background-color:#fc9872}
-			.enter-link a{display:block}
-			.icon{width:20px;height:20px;background-position:center;background-size:contain;background-repeat:no-repeat;display:inline-block}
-			.icon_hand{width:27px;height:27px;vertical-align:middle;background-image:url(data:image/png;base64,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);padding-top:12px}
-			.c_black{color:#333;line-height:30px;font-size:12px}
-			.c_blue{color:#fc9872}
-			.c_link{font-size:14px;line-height:30px}
-			.fri_link{overflow:hidden;width:80%}
-			.fri_link li{float:left;display:block;font-size:.875rem;width:33.33333333%}
-			.icon_ios_shared{background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAA8CAYAAAA6/NlyAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAuGAAALhgBKqonIAAAABx0RVh0U29mdHdhcmUAQWRvYmUgRmlyZXdvcmtzIENTNAay06AAAAHsSURBVGiB7ZvLasJAFEBvnsYXhFoKXaRLi/QHWrppl/2mrvtL3dZlf0AElxXsRiVgo+bdTVJEUmUmyYTc3ANCTGbuneMMmTEPKY5jaBJy1Q0QTeOEVZbCN6+z3Akt05A3bjhVZGmxcrznvPG+3oZM5YX2cCpr7/zhyvGeBl39Q2R+AIHClmmoqWy678cNHi3TYBpleREinMhODmUBANwg0jZuOLFMQ9gPX3qiLNmWKvvptr3zhxs3nIqSLjVJlqzZ1mZXPb1ntrW/M6BI6dIS/Cfbbymjub33+i3lrgrpUoKfkY0AAOb2PqhCuvDAydRzUjYlS1qRpcVxuSIpXHhu7yNFlr7T7xmy8cEnlR6ZbW026OrjIhYjpyhlDkwWFeMwiq+zevaY5PhtGW05prRJf+V4TwAA9s4/U1IsjfvzQMLYIWHskDB2WOdhlkucEmNsITlq3cMdXXFY69RaeOuFHdY63EvLi472eer4esu3pDwXN4l9zxUccgivt/4Db90C4nLfLqn1kOaBhLFDwtghYeyQMHZIGDskjB0Sxg4JY4eEsSP0obAE3uvVhdC4HiZh7JAwdhonzD0tXXb19yIbwsLS8bjrcgsvHe+FO2uFMA3plir7h8861xGmHnaDSE82a/uyk0QvaiGnccK/XaTidYL+GAMAAAAASUVORK5CYII=)}
-			.icon_android_share{background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAA8CAYAAAA6/NlyAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAuGAAALhgBKqonIAAAABx0RVh0U29mdHdhcmUAQWRvYmUgRmlyZXdvcmtzIENTNAay06AAAAFYSURBVGiB7doxSgNBFMbxt5PZrGFWCMHCgAg2Fp7CUj1DbmBhZ2Ntk87CC3gIsfQWgo0gFoJRAm4YN7uZsTDKGtLOG3j7/cpt3v4TAl+RxHtPbaJivwA3BEuHYOkQLB2CpUOwdAiWrnXBmuPI7sUjDY0Zfc7nV0VVDbRSvp9ldxNrT54v9zle4Q/LN7yT53tv1t4UVTUgIqqdSybWHm/1ercc95tYgr8Wi+vauWT1+bQsjzjuN0X9Da/7EEJjCdZK3a97nqfpB8f9Jpbg19ls3M+yh+YzrZTf7HbPOO7/u8t1aFqWB9vGnNfOHRIRbXQ6py9F8cR1/xdbMNHPN01EY86bq1o3PBAsHYJDGRozytP0nYi8VsrFmJVE2NJhYEsvYUszwJYOBVs6EgwP6RAsHbZ0CNjSS9jSDLClQ8CWpnhbOsG/aYVDsHQIlg7B0iFYOgRLh2DpvgEr5a2EBqrivQAAAABJRU5ErkJggg==)}
+			#webTitle{
+				height: 30%;
+				width: 100%;
+				
+				margin-top: 5%;
+				font-size: 30px;;
+				text-align: center;
+				/*background-color: lightgray;*/
+			}
+			#webTitle_last{
+				color: white;
+				background-color: red;
+				border-radius: 5px;
+			}
+			.webEnter{
+				display: block;
+				height: 50px;
+				/*line-height: 50px;*/
+				margin: 0 auto;
+				width: 60%;
+				/*margin-top: 20px;*/
+				font-size: 12px;;
+				text-align: center;
+				padding-right: 2%;
+				/*border: 1px solid pink;*/
+				/*border-radius: 30px;*/
+				/*box-shadow: 1px 1px 10px 0.5px red;*/
+				display: inline-block;
+				width:16%;max-width:90px;
+			}
+			.imgItems{
+				height:auto;width:100%;
+				border-radius: 50%;
+				height: auto;
+				border: 5px pink solid;
+			}
+			#othersAddres{
+				/*height: 60%;*/
+				width: 90%;
+				margin: 0 auto;
+				margin-top: 1%;
+				font-size: 16px;;
+				text-align: center;
+			}
+			#othersAddres_warm{
+			    /*width: 45px;*/
+			    color:gray;
+				display: block;
+				height: 40%;
+				/*width: 90%;*/
+				font-weight: 600;
+				margin: 0 auto;
+				/*margin-top: 20%;*/
+				font-size: 20px;;
+				text-align: center;
+			}
+			.othersAddres_items{
+			    color:gray;
+				/*padding: 5px;*/
+				/*text-align: left*/
+			}
+			#circle{
+				position: fixed;
+				color: #000000;
+				display: block;
+				height: 80px;
+				width: 80px;
+				
+				margin:auto;left:0; right:0; top:0%; bottom:40%;
+				opacity: 0;			
+			}
+			.mui-spinner:after {
+		    display: block;
+		    width: 100%;
+		    height: 100%;
+		    content: '';
+		    background-image: url(https://p1.bdxiguaimg.com/origin/pgc-image/4af560a4ab3944a5a584abe4195a136d.jpg);
+		    background-repeat: no-repeat;
+		    background-position: 50%;
+		    background-size: 100%;
+		}	
+				#myUrl{
+					text-align: center;
+					font-size: 18px;
+				}
+				
+/* @media screen and (max-device-width:760px){	*/
+      #webTitle{
+				height: 40%;
+				
+				
+				margin-top: 10%;
+				font-size: 70px!important;
+				
+				
+			}
+				.webEnter{
+				display: block;
+				height: auto;
+				/*line-height: 120px;*/
+				margin: 0 auto;
+				width: 60%;
+				margin-top: 20px;
+				font-size: 28px;;
+				/*padding-right:28px ;*/
+				display: inline-block;
+		width:18%;max-width:150px;
+				
+			}
+				.imgItems{
+			border: 3px pink solid;
+				height: auto;
+			}
+			.othersAddres_items{
+			    /*text-align: left;*/
+				padding: 30px;
+			}
+			#othersAddres_warm{
+				/*padding-bottom: 30px;*/
+				margin-top: 0!important;
+				font-size: 60px;;
+				
+			}
+			#othersAddres{
+				height: auto;
+				width: 80%;
+				margin: 0 auto;
+				margin-top: 1%;
+				font-size: 34px;;
+				text-align: center;
+				/*line-height: 64px;*/
+			}
+			#myUrl{
+					text-align: center;
+				
+				}
+				#myShare{
+					font-size: 34px;
+				}
+				#hurry{
+				    font-size:40px;
+				    padding-bottom: 40px;
+				}
+			
+
+     
+/* }	*/
+ @media screen and (max-width:760px){
+                 #north {
+                height: 22px;
+                     
+                 }
+    		    #webTitle{
+				height: 40%;
+				
+				
+				margin-top: 10%;
+				font-size: 32px!important;
+				
+				
+			}
+				.webEnter{
+				display: block;
+				/*height: 120px;*/
+				/*line-height: 120px;*/
+				margin: 0 auto;
+				width: 60%;
+				/*margin-top: 20px;*/
+				font-size: 14px;;
+				/*padding-right:28px ;*/
+				display: inline-block;width: 18%; height:auto;
+				
+			}
+				.imgItems{
+			border: 3px pink solid;
+				height: auto;
+			}
+			.othersAddres_items{
+			    text-align: left;
+				padding: 14px;
+			}
+			#othersAddres_warm{
+				/*padding-bottom: 30px;*/
+				margin-top: 0!important;
+				font-size: 28px;;
+				
+			}
+			#othersAddres{
+				height: auto;
+				width: 90%;
+				margin: 0 auto;
+				margin-top: 1%;
+				font-size: 14px;;
+				text-align: center;
+				/*line-height: 64px;*/
+			}
+			#myUrl{
+					text-align: center;
+				
+				}
+				#myShare{
+					font-size: 15px;
+				}
+				#hurry{
+				    font-size:20px;
+				    padding-bottom: 14px;
+				}
+			
+}
+			
 		</style>
 	</head>
+		
 	<body>
-		<div id="main">
-			<div class="brand" id="logo">
-				<span>九度视频
-				</span><span class="flag">永久发布页</span>
+		<!--<span id="circle" class="mui-spinner"></span>-->
+		<div id="north">
+			<div id="webTitle">
+				九度视频 
+				<a id="webTitle_last" href="/">发布页</a>
 			</div>
-			<div class="field">
-				<div class="enter-maomi">
-					<div class="enter-icon">
-						<div class="icon icon_hand"></div>
-					</div>
-					<div class="enter-link">
-						<script language="javascript">
-							function test() {
-								var url = new Array();
-								url[0] = "https://www.9dusp.xyz";
-								url[1] = "https://www.9dusp.xyz";
-								url[2] = "https://www.9dusp.xyz";
-								var ints = parseInt(Math.random() * (url.length));
-								window.open(url[ints]); //本窗口打开     
-								//window.location=url[ints];//新窗口打开 
-							}
-						</script>
-						<a href="javascript:test()"><span class="c_blue">点击这里进入本网站</span> </a>
-					</div>
+			</br></br>
+			<div id="myUrl">
+				
+				<!--<button id="myShare"  style="background-color:rgba(0,0,0,0);padding:0;border: none ; display: inline-block;color: pink"  data-clipboard-text="https://www.qslyy.com" >记住发布页: www.qslyy.com 点击可复制</button>-->
+			</div>
+			<div id="hurry" style="width:100%;text-align:center;color:purple">
+			    ↓↓点击进入免费观看↓↓
+			</div>
+		<div id="" style="text-align: center;">
+		    
+				<a id="webEnter1" class="webEnter" style="" onclick="showCircle()" href="https://www.9dusp.xyz/">
+				<img class="imgItems"style="" src="https://i.loli.net/2020/09/27/n9RAQqOFK1H6ewa.jpg"></img>
+								 
+				九度视频
+				</a>
+				
+				<a id="webEnter1" class="webEnter" style="" onclick="showCircle()" href="https://www.9dufz.xyz">
+			<img class="imgItems"style="" src="https://i.loli.net/2020/09/27/eruvNKIB5zt7AjF.jpg"></img>
+								 
+				九度副站
+				</a>
+				
+				
+				<a id="webEnter1" class="webEnter" style="" onclick="showCircle()" href="https://count.liqucn.com/d.php?id=29058&urlos=android&from_type=web">
+			<img class="imgItems"style="" src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/0e/16/3b/0e163b57-2e3a-427c-e061-9fe4f6bf40a8/AppIcon-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-85-220.png/230x0w.webp"></img>
+								 
+				谷歌浏览器
+				</a>
+				
+				
+			<!--<a id="webEnter1" class="webEnter" style="" onclick="showCircle()" href="https://www.qslyymid1.xyz/7.html">
+			<img class="imgItems"style="" src="https://i.loli.net/2020/09/29/YbQ5i3yL4xKMDP1.jpg https://i.loli.net/2020/09/27/b7xCVef9FHIRskw.png"></img>
+								 
+				全国楼凤-->
+				</a>
+				
+			</div>
+			
+			<div id="othersAddres">
+			    
+				<div style="display:inline-block" id="othersAddres_warm">喵喵提示</div>
+				<div style="display:inline-block;height:auto;width:60px"><img style="height:auto;width:100%" src="https://i.loli.net/2020/09/29/YQCjm4cuIZH9bz5.jpg"></img></div>
+				<div id="" class="othersAddres_items">
+				<!--	[1]. 郑重承诺本站<span style="color: red;">永久免费</span> .-->
+				<!--</div>-->
+				<div id="" class="othersAddres_items">
+					[1]. 为防被屏蔽,请狼友们务必记住<br>
+					发布页1：<a style="color:dodgerblue" href="https://9dusp.cc">9dusp.cc</a><br>
+					发布页2：<a style="color:dodgerblue" href="https://fabuyedz.github.io/">fabuyedz.github.io</a><br>
+				
+					<!--当前视频站<a  style="color:dodgerblue" href="https://qslyyvip.cc">：qslyyvip.cc</a><br>-->
+						或联系邮箱会自动回复最新网址给您<br>
+					邮箱：<span style="color:dodgerblue" >oomiui7@gmail.com</span>
 				</div>
-				<p class="c_blue c_link">最新地址➊：<a href="https://www.9dusp.xyz" target="_blank">https://www.9dusp.xyz</a></p>
-				<p class="c_blue c_link">副站地址➊：<a href="https://www.9dufz.xyz" target="_blank">https://www.9dufz.xyz</a></p>
-			</div>
-			<div class="field ">
-				<h4 class="title">✉ 请保存下面的邮箱和本发布页</h4>
-				<ul>
-					<li>  oomiui7@gmail.com  </li>
-				</ul>
-				<ul>
-					<li><a>希望大家能学会发送邮件获取新地址</a></li>
-				</ul>
-			</div>
-			
-			
-			<div class="field ">
-				<h4 class="title">✈ 谷歌浏览器下载地址</h4>
-				<ul>
-				<li><a href="https://img.rumao2.xyz/google%20chrome%2091.0.4472.120%20.apk" target="_blank">点此下载</a></li>
-				</ul>
-			
-			</div>
-			
-			
-			<div class="field desc">
-				<h4 class="title">✐ 溫馨提示</h4>
-				<ul>
-					<li>* 推荐使用谷歌(Chrome)浏览器访问本站，谷歌浏览器速度更快，iPhone建议使用手机自带Safria浏览器访问。</li>
-					<li>* 如果您记不住本站域名，请收藏该页地址，收藏并分享给好朋友。</li>
-					<p class="c_black">1、使用电脑的用户，请按键盘上的CTRL+D进行收藏</p>
-					<p class="c_black">2、苹果手机用户在浏览器点击<span class="icon icon_ios_shared small-img"></span>，然后添加到个人收藏或主屏幕。</p>
-					<p class="c_black">3、安卓手机用户点击<span class="icon icon_android_share small-img"></span>，或者打开浏览器设置，添加到书签或主屏幕。</p>
-				</ul>
+				<div id="" class="othersAddres_items">
+					[2]. 安卓手机  建议用<span style="color: red;">谷歌浏览器</span> 苹果请使用sfari浏览器,其他浏览器容易被屏蔽.
+				</div>
+				    
 			</div>
 		</div>
+		<div id="south">
+			
+		</div>
+		<script type="text/javascript">
+			circle= document.getElementById('circle');
+			function showCircle(){
+				circle.style.opacity="1";
+			}
+			//复制
+			var myShare = document.getElementById("myShare");
+					
+					
+					var clipboard=new ClipboardJS('#myShare');
+					
+						
+						
+						   
+						
+						 clipboard.on('success', e => {
+					            console.log(e.text);
+					             alert("已复制!   发送给好友 粘贴到浏览器即可打开 。安卓手机 建议使用谷歌浏览器。")
+					             
+					            // 释放内存
+					           
+					        });
+					        clipboard.on('error', e => {
+					            // 不支持复制
+					            this.$message({ type: 'warning', message: '该浏览器不支持自动复制' });
+					                // 释放内存
+					            
+					        });
+					
+		</script>
+
 	</body>
 </html>

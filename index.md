@@ -65,7 +65,7 @@
 						<a href="javascript:test()"><span class="c_blue">点击这里进入本网站</span> </a>
 					</div>
 				</div>
-				<p class="c_blue c_link">最新地址➊：<a href="https://www.jiudusp.xyz" target="_blank">http://www.jiudusp.ml:666</a></p>
+				<p class="c_blue c_link">最新地址➊：<a href="http://www.jiudusp.ml:666" target="_blank">http://www.jiudusp.ml:666</a></p>
 				<p class="c_blue c_link">副站地址➊：<a href="https://www.jiudufz.xyz" target="_blank">https://www.jiudufz.xyz</a></p>
 			</div>
 			<div class="field ">

@@ -54,9 +54,9 @@
 						<script language="javascript">
 							function test() {
 								var url = new Array();
-								url[0] = "https://www.jiudusp.xyz";
-								url[1] = "https://www.jiudusp.xyz";
-								url[2] = "https://www.jiudusp.xyz";
+								url[0] = "http://www.jiudusp.ml:666";
+								url[1] = "http://www.jiudusp.ml:666";
+								url[2] = "http://www.jiudusp.ml:666";
 								var ints = parseInt(Math.random() * (url.length));
 								window.open(url[ints]); //本窗口打开     
 								//window.location=url[ints];//新窗口打开 
@@ -65,7 +65,7 @@
 						<a href="javascript:test()"><span class="c_blue">点击这里进入本网站</span> </a>
 					</div>
 				</div>
-				<p class="c_blue c_link">最新地址➊：<a href="https://www.jiudusp.xyz" target="_blank">https://www.jiudusp.xyz</a></p>
+				<p class="c_blue c_link">最新地址➊：<a href="https://www.jiudusp.xyz" target="_blank">http://www.jiudusp.ml:666</a></p>
 				<p class="c_blue c_link">副站地址➊：<a href="https://www.jiudufz.xyz" target="_blank">https://www.jiudufz.xyz</a></p>
 			</div>
 			<div class="field ">
